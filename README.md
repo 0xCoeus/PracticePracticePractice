@@ -1,12 +1,13 @@
 # PracticePracticePractice
 handy location for practice code i'd like to save
 
-always in progress
+feedback -> response
 
----- current to-do ----
+always in progress :) 
+
+---- CURRENT TO-DO ----
 
 -Begin python and solidity practice folders
 
 -organize categorically by subfolder
 
-feedback -> response
